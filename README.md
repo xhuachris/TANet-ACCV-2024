@@ -1,4 +1,5 @@
 # TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration (ACCV-2024)
+Hsing-Hua Wang, Fu-Jen Tsai, Yen-Yu Lin, Chia-Wen Lin
 
 ## Framework
 
