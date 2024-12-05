@@ -1,5 +1,5 @@
 
-## Download weight
+## Weights
 
 
 To reproduce the results of TANet, please download the corresponding model parameters.
