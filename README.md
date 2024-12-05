@@ -1,4 +1,4 @@
-# TANet-ACCV-2024
+# TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration (ACCV-2024)
 
 ## Framework
 
