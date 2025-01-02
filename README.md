@@ -12,25 +12,25 @@ Hsing-Hua Wang, Fu-Jen Tsai, Yen-Yu Lin, Chia-Wen Lin
 
 ```plaintext
 └── dataset
-        ├── train
-                ├── haze
-                        ├── in
-                        └── gt
-                ├── rain
-                    ├── in
-                    └── gt
-                └── snow
-                    ├── in
-                    └── gt
-        └──  test
-                ├── haze
-                    ├── in
-                    └── gt
-                ├── rain
-                    ├── in
-                    └── gt
-                └── snow
-                    ├── in
-                    └── gt
+    ├── train
+        ├── haze
+            ├── in
+            └── gt
+        ├── rain
+            ├── in
+            └── gt
+        └── snow
+            ├── in
+            └── gt
+    └──  test
+        ├── haze
+            ├── in
+            └── gt
+        ├── rain
+            ├── in
+            └── gt
+        └── snow
+            ├── in
+            └── gt
 
 data_path = {your data path}/dataset/
