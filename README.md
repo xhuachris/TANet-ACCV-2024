@@ -7,3 +7,28 @@ Hsing-Hua Wang, Fu-Jen Tsai, Yen-Yu Lin, Chia-Wen Lin
 
 ![image](https://github.com/user-attachments/assets/c9457c72-087c-4c5b-bab1-e8dcdff0e837)
 
+
+## Training Data
+> ├── dataset
+    ├── train
+        ├── haze
+            ├── in
+            ├── gt
+        ├── rain
+            ├── in
+            ├── gt
+        ├── snow
+            ├── in
+            ├── gt
+    ├── test
+        ├── haze
+            ├── in
+            ├── gt
+        ├── rain
+            ├── in
+            ├── gt
+        ├── snow
+            ├── in
+            ├── gt
+
+data_path = {your data path}/dataset/
