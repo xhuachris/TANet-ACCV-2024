@@ -32,5 +32,5 @@ Hsing-Hua Wang, Fu-Jen Tsai, Yen-Yu Lin, Chia-Wen Lin
         └── snow
             ├── in
             └── gt
-
+```
 data_path = {your data path}/dataset/
