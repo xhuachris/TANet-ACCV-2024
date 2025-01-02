@@ -9,9 +9,9 @@ Hsing-Hua Wang, Fu-Jen Tsai, Yen-Yu Lin, Chia-Wen Lin
 
 
 ## Training Data
-> ├── dataset
-    ├── train
-        ├── haze
+> ├── dataset  
+>     ├── train  
+        ├── haze  
             ├── in
             ├── gt
         ├── rain
